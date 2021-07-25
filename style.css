@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+button{
+    background-color: yellow;
+    color:black;
+    width:150px;
+    height:150px;
+}
